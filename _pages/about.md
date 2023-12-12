@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bachelor student
+subtitle: Bachelor student @ Kyushu University
 
 profile:
   align: right
