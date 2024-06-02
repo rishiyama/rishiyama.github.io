@@ -6,7 +6,7 @@ subtitle: Master student @ Kyushu University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: in_korea.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
