@@ -1,97 +1,81 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Ryo Ishiyama
+#     - name: Date of Birth
+#       value: 27th July 2001
+    # - name: Languages
+    #   value: Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: 修士
+      institution: 九州大学大学院システム情報科学府 情報理工学専攻
+      year: 2024-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - コンピュータービジョン
+        - 深層学習
+    - title: 学士
+      institution: 九州大学工学部 電気情報工学科
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - コンピュータービジョン
+        - 深層学習
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Part-time Engineer
+      institution: Preferred Networks, Inc.
+      year: 2024.5-present
+     
+    - title: Research Intern
+      institution: 産業技術総合研究所 (AIST)
+      year: 2023.2 - 2023.4
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - マルチエージェントシステム
+        - データ同化
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: <a href="https://www.ipa.go.jp/jinzai/mitou/it/2024/koubokekka.html">ユーザとモノのネットワーク体験を創作するためのARシステム</a>
+      year: 2024.6-Preset
+      description: 2024年度未踏IT人材発掘・育成事業
+    - title: <a href="https://mitou-fukuoka.org/works/%E3%80%901%E6%9C%9Fgrow%E3%80%91orimetry%EF%BC%9A%E6%8A%98%E3%82%8A%E5%89%B5%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%80%8E-orimetry-js-%E3%80%8F%E3%81%AE%E9%96%8B%E7%99%BA/">Orimetry</a>
+      year: 2023.9-2024.1
+      description: 福岡未踏的人材発掘・育成コンソーシアム
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
