@@ -39,7 +39,7 @@
         - マルチエージェントシステム
         - データ同化
 
-- title: Projects
+- title: Projects/Scholarship
   type: time_table
 
 
@@ -50,7 +50,9 @@
     - title: <a href="https://mitou-fukuoka.org/works/%E3%80%901%E6%9C%9Fgrow%E3%80%91orimetry%EF%BC%9A%E6%8A%98%E3%82%8A%E5%89%B5%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%80%8E-orimetry-js-%E3%80%8F%E3%81%AE%E9%96%8B%E7%99%BA/">Orimetry</a>
       year: 2023.9-2024.1
       description: 福岡未踏的人材発掘・育成コンソーシアム
-
+    - title: <a href="https://k-spring.kyushu-u.ac.jp/topics/recruitment/fy2024-application-guidelines">【予約採用】次世代AI人材育成プログラム（K-BOOST, JST）</a>
+      year: 2026.4-2029.3
+      description: <a href="https://www.jst.go.jp/jisedai/boost-s/index.html">国家戦略分野の若手研究者及び博士後期課程学生の育成事業(BOOST) 次世代AI人材育成プログラム（博士後期課程学生支援）</a>
 
 # - title: Honors and Awards
 #   type: time_table
