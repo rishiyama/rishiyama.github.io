@@ -33,7 +33,8 @@ featured: false
 しかし Genkai では **計算ノード上で Docker を直接動かす操作は期待されておらず**， 
 代わりに Singularity / Apptainer を使う必要があります．
 これは，Genkaiに限らず，産総研スパコンABCIも同様で Sigularity 環境が整備されています．
-Docker環境をSigularityで利用する方法については[公式のガイダンス](https://www.cc.kyushu-u.ac.jp/scp/system/Genkai/software/Singularity.html)はこちらに記されています．
+Docker環境をSigularityで利用する方法については[公式のガイダンス](https://www.cc.kyushu-u.ac.jp/scp/system/genkai/software/Singularity/
+)はこちらに記されています．
 
 
 リポジトリでは，
