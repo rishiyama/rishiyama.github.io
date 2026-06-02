@@ -4,7 +4,6 @@ title: Genkai (Kyushu Univ. HPC) with docker
 date: 2026-01-12 00:00:00
 description: Kyushu Univ. HPC - Genkai with docker
 tags: work
-categories: sample-posts
 featured: false
 ---
 

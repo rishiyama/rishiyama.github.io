@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+
+gem 'observer' # required by citeproc-ruby on Ruby 3.4+
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
