@@ -5,8 +5,8 @@
 #       value: Ryo Ishiyama
 #     - name: Date of Birth
 #       value: 27th July 2001
-    # - name: Languages
-    #   value: Japanese
+# - name: Languages
+#   value: Japanese
 
 - title: Education
   type: time_table
@@ -32,18 +32,17 @@
         - Computer Vision
         - Deep Learning
 
-
 - title: Experience
   type: time_table
   contents:
     - title: Part-time Engineer
       institution: Preferred Networks, Inc.
       year: 2024.5-2024.10
-      
+
     - title: Part-time Engineer / Research Intern.
       institution: Preferred Networks, Inc.
       year: 2025.7-2026.3
-     
+
     - title: Research Intern.
       institution: Onishi-lab, National Institute of Advanced Industrial Science and Technology (AIST)
       year: 2023.2 - 2023.4
@@ -70,23 +69,22 @@
     - title: <a href="https://k-spring.kyushu-u.ac.jp/topics/recruitment/fy2024-application-guidelines">【予約採用】次世代AI人材育成プログラム（K-BOOST, JST）</a>
       year: 2026.4-2029.3
       description: <a href="https://www.jst.go.jp/jisedai/boost-s/index.html">国家戦略分野の若手研究者及び博士後期課程学生の育成事業(BOOST) 次世代AI人材育成プログラム（博士後期課程学生支援）</a>
-
 # - title: Honors and Awards
 #   type: time_table
 #   contents:
 #     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
+#       items:
+#         - Nobel Prize in Physics
 #         - Matteucci Medal
 #     - year: 2029
-#       items: 
+#       items:
 #         - Max Planck Medal
 
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
 #     - title: Topic 1.
-#       items: 
+#       items:
 #         - Description 1.
 #         - Description 2.
 #     - title: Topic 2.
