@@ -6,7 +6,7 @@ subtitle: Ph.D student @ Kyushu University
 
 profile:
   align: right
-  image: mydraw.png
+  image: pot.png
   image_circular: false # crops the image to make it circular
   more_info:
 
